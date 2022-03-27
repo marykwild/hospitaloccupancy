@@ -1,0 +1,5 @@
+When the coronavirus first arrived in South Carolina it quickly became apparent that readers wanted to know more about how well-equipped South Carolina's hospitals were to handle surging cases, and quickly.
+As the health reporter for The Post and Courier newspaper in Charleston, S.C., it turned out this information was hard to gather individually from each hospital, as each would provide different information when asked the same questions.
+I turned to the Medicare Cost Reports to simply illustrate where critical care capacity existed in South Carolina, and translated this in <a href = "https://www.postandcourier.com/health/covid19/coronavirus-may-be-pushing-some-sc-hospitals-closer-to-the-brink/article_b58c6608-737c-11ea-a2b3-930e635ba67a.html">an article that explored the financial strain that the state's rural hospitals, already on the brink, were facing as COVID-19 disrupted their usual business.</a>
+<iframe width="100%" height="520" frameborder="0" src="https://mkwildeman.carto.com/builder/f684df37-11df-490e-a870-4fb079d9ef96/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
